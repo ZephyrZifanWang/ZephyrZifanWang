@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zephyrzifanwang.github.io/sitemap.xml
+Sitemap: https://zephyrzifanwang.github.io/zephyrzifanwang//sitemap.xml
